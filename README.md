@@ -1,4 +1,4 @@
-# Nannan Gu – Mechanical Engineer
+# Nannan Gu 
 
 Welcome to my portfolio!  
 🎓 B.S. Mechanical Engineering, UCSB  
