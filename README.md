@@ -1,6 +1,5 @@
 # Nannan Gu 
-
-Welcome to my portfolio!  
+ 
 🎓 B.S. Mechanical Engineering, UCSB  
 🔧 Robotics • Mechatronics • CAD • Embedded Systems
 
