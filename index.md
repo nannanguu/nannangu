@@ -11,10 +11,6 @@ title: Nannan Gu
 
 ## Projects
 
-### CNC Wind Tunnel Testing Platform
-- Independently developed a lightweight, CNC-controlled platform for aerodynamic testing  
-- Enabled automated linear and angular adjustment of test objects using stepper motors  
-- Designed for vibration resistance and low aerodynamic impact
 
 ### Oceallus – Underwater Camera System
 - Directed development of a modular, pressure-rated camera system for marine research  
