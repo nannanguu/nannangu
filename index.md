@@ -16,7 +16,7 @@ title: Nannan Gu
 - Directed development of a modular, pressure-rated camera system for marine research  
 - Integrated Raspberry Pi Zero, IR lighting, and photoresistor-based low-power capture logic  
 - [GitHub Repo](https://github.com/Oceallus/underwater_spy_camera)
-- 📘 [Oceallus Final Design Packet (PDF)](Oceallus Final Design Packet.pdf)
+- 📘 [Oceallus Final Design Packet (PDF)](Oceallus_Final_Design_Packet.pdf)
 
 ### FlexBin – Smart Trash Compression System
 - Created a dual-wall smart bin using load cells, LED indicators, and IR remote control  
